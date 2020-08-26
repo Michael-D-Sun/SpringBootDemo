@@ -61,7 +61,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunManager" selected="JUnit.HelloTest.contextLoad">
     <configuration name="HelloTest.contextLoad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -113,7 +113,7 @@
       <workItem from="1598281521859" duration="1777000" />
       <workItem from="1598360473010" duration="5163000" />
       <workItem from="1598368571296" duration="888000" />
-      <workItem from="1598401777503" duration="2396000" />
+      <workItem from="1598401777503" duration="3413000" />
     </task>
     <servers />
   </component>
@@ -141,22 +141,22 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2685" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598409408905" />
-    <state width="1877" height="388" key="GridCell.Tab.0.bottom" timestamp="1598409335892">
+    <state width="1877" height="388" key="GridCell.Tab.0.bottom" timestamp="1598409588383">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="388" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598409335892" />
-    <state width="1877" height="388" key="GridCell.Tab.0.center" timestamp="1598409335891">
+    <state width="1877" height="388" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598409588383" />
+    <state width="1877" height="388" key="GridCell.Tab.0.center" timestamp="1598409588382">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="388" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598409335891" />
-    <state width="1877" height="388" key="GridCell.Tab.0.left" timestamp="1598409335891">
+    <state width="1877" height="388" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598409588382" />
+    <state width="1877" height="388" key="GridCell.Tab.0.left" timestamp="1598409588382">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="388" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598409335891" />
-    <state width="1877" height="388" key="GridCell.Tab.0.right" timestamp="1598409335892">
+    <state width="1877" height="388" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598409588382" />
+    <state width="1877" height="388" key="GridCell.Tab.0.right" timestamp="1598409588383">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="388" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598409335892" />
+    <state width="1877" height="388" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598409588383" />
     <state width="1877" height="388" key="GridCell.Tab.1.bottom" timestamp="1598409276114">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -173,11 +173,11 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="388" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598409276114" />
-    <state x="2381" y="164" key="SettingsEditor" timestamp="1598403461968">
+    <state x="2381" y="164" key="SettingsEditor" timestamp="1598410082359">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="369" y="114" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598363200865" />
-    <state x="2381" y="164" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598403461968" />
+    <state x="2381" y="164" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598410082359" />
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598365789195">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>

@@ -8,6 +8,11 @@ import java.util.Date;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * 只有这个组件时容器中的组件，才能使用容器提供的@ConfigurationProperties功能
+ *
+ */
+
 @Component
 @ConfigurationProperties(prefix="person")
 public class Person {
