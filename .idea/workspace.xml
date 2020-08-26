@@ -19,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -63,7 +64,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="JUnit.HelloTest.contextLoad">
+  <component name="RunManager" selected="JUnit.HelloTest.testHelloService">
     <configuration name="HelloTest.contextLoad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SpringBootDemo" />
       <extension name="coverage">
@@ -75,6 +76,22 @@
       <option name="PACKAGE_NAME" value="cn.michael" />
       <option name="MAIN_CLASS_NAME" value="cn.michael.HelloTest" />
       <option name="METHOD_NAME" value="contextLoad" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloTest.testHelloService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.michael.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.michael" />
+      <option name="MAIN_CLASS_NAME" value="cn.michael.HelloTest" />
+      <option name="METHOD_NAME" value="testHelloService" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HelloTest.testHelloService" />
         <item itemvalue="JUnit.HelloTest.contextLoad" />
         <item itemvalue="Spring Boot.Hello" />
       </list>
@@ -113,7 +131,7 @@
       <workItem from="1598281521859" duration="1777000" />
       <workItem from="1598360473010" duration="5163000" />
       <workItem from="1598368571296" duration="888000" />
-      <workItem from="1598401777503" duration="3978000" />
+      <workItem from="1598401777503" duration="6525000" />
     </task>
     <servers />
   </component>
@@ -141,22 +159,26 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2685" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598409408905" />
-    <state width="1877" height="388" key="GridCell.Tab.0.bottom" timestamp="1598410983340">
+    <state x="2656" y="383" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598413325515">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="388" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598410983340" />
-    <state width="1877" height="388" key="GridCell.Tab.0.center" timestamp="1598410983340">
+    <state x="2656" y="383" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598413325515" />
+    <state width="1877" height="388" key="GridCell.Tab.0.bottom" timestamp="1598413506989">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="388" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598410983340" />
-    <state width="1877" height="388" key="GridCell.Tab.0.left" timestamp="1598410983340">
+    <state width="1877" height="388" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598413506989" />
+    <state width="1877" height="388" key="GridCell.Tab.0.center" timestamp="1598413506989">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="388" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598410983339" />
-    <state width="1877" height="388" key="GridCell.Tab.0.right" timestamp="1598410983340">
+    <state width="1877" height="388" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598413506989" />
+    <state width="1877" height="388" key="GridCell.Tab.0.left" timestamp="1598413506989">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="388" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598410983340" />
+    <state width="1877" height="388" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598413506989" />
+    <state width="1877" height="388" key="GridCell.Tab.0.right" timestamp="1598413506989">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598413506989" />
     <state width="1877" height="388" key="GridCell.Tab.1.bottom" timestamp="1598409276114">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -173,6 +195,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="388" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598409276114" />
+    <state x="2410" y="175" key="Maven.ArtifactSearchDialog" timestamp="1598411742098">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2410" y="175" key="Maven.ArtifactSearchDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598411742098" />
     <state x="2381" y="164" key="SettingsEditor" timestamp="1598410082359">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -182,5 +208,9 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598365789195" />
+    <state x="2560" y="203" key="spring file set editor" timestamp="1598413020630">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2560" y="203" key="spring file set editor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598413020630" />
   </component>
 </project>
